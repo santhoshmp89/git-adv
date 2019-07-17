@@ -1,1 +1,1 @@
-git checkout file
+git checkout file lastest commit ksfsdsf 
